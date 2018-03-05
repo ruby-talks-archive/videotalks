@@ -1,0 +1,8 @@
+.bundle
+vendor
+Gemfile.lock
+doc
+tmp
+.yardoc
+coverage
+pkg
